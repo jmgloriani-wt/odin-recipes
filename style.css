@@ -1,0 +1,28 @@
+body {
+    background: #eee;
+    font-family: sans-serif;
+}
+
+.recipes-container {
+    margin: 8px auto;
+    align-items: center;
+    background-color: darkolivegreen;
+    color: white;
+    padding: 10%;
+}
+
+.title {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 8px;
+    padding: 8px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.recipes-list {
+    text-align: center;
+    color: white;
+}
